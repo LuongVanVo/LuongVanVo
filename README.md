@@ -20,14 +20,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuongVanVo&theme=react-dark&hide_border=true&area=true" />
 </div>
 
-
-
-
-
-
-
-
-
 ---
 
 ### 📫 Contact me
@@ -35,3 +27,4 @@
 - 📧 Email: **luongvanvo29@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/luongvanvo**
 - 🧑‍💻 GitHub: **https://github.com/LuongVanVo**
+- 📄 CV: <a href="https://www.topcv.vn/xem-cv/U1BVAFoFB1UHUVZaVwFZUwACU1oCVlxQV1IAUQ01d3" target="_blank"><strong>View my CV</strong></a>
