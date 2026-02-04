@@ -2,9 +2,6 @@
 <h3 align="center">A Full-stack Developer focusing on Backend Engineering, from Vietnam</h3>
 
 ---
-
-### 🛠 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs,ts,js,java,cpp,python,react,docker,aws,rabbitmq,postman" />
 </p>
@@ -13,8 +10,6 @@
   <img src="https://skillicons.dev/icons?i=github,postgres,mysql,mongodb,redis,firebase,html,css,django,tailwind,vscode" />
 </p>
 ---
-
-### 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuongVanVo&theme=react-dark&hide_border=true&area=true" />
