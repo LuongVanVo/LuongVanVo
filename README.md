@@ -10,9 +10,9 @@
   <img src="https://skillicons.dev/icons?i=github,postgres,mysql,mongodb,redis,firebase,html,css,django,tailwind,vscode" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuongVanVo&theme=react-dark&hide_border=true&area=true" />
-</div>
+</div> -->
 
 ---
 
