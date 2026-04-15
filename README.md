@@ -21,5 +21,4 @@
 - 📧 Email: **luongvanvo29@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/luongvanvo**
 - 🧑‍💻 GitHub: **https://github.com/LuongVanVo**
-- 
 - 📄 CV: <a href="https://drive.google.com/file/d/1vGAP9etL-JfRkYRKh0DzFgea8EN9eC_p/view?usp=sharing" target="_blank"><strong>View my CV</strong></a>
