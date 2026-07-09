@@ -10,7 +10,7 @@
 | **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs,ts,js,java,python,cpp,django" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,rabbitmq" /> <img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="48" alt="DigitalOcean" /> |
-| **Databases & Cache** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
 
 <!--
