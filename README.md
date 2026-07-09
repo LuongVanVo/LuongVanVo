@@ -1,24 +1,29 @@
-<h1 align="center">Hi 👋, I'm Luong Van Vo</h1>
-<h3 align="center">A Full-stack Developer focusing on Backend Engineering, from Vietnam</h3>
+<p>Hi 👋, I'm Luong Van Vo, Backend & Infrastructure Engineer specializing in software development, cloud infrastructure, and software architecture.
+</p>
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs,ts,js,java,cpp,python,react,docker,aws,rabbitmq,postman" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postgres,mysql,mongodb,redis,firebase,html,css,django,tailwind,vscode" />
-</p>
+## Tech Stack
 
-<!-- <div align="center">
+| Category | Technologies |
+|----------|--------------|
+| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs,ts,js,java,python,cpp,django" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,rabbitmq" /> <img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="48" alt="DigitalOcean" /> |
+| **Databases & Cache** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+
+<!--
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuongVanVo&theme=react-dark&hide_border=true&area=true" />
-</div> -->
+</div>
+-->
 
 ---
 
-### 📫 Contact me
+## Contact
 
-- 📧 Email: **luongvanvo29@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/luongvanvo**
-- 🧑‍💻 GitHub: **https://github.com/LuongVanVo**
-- 📄 CV: <a href="https://drive.google.com/file/d/1DHrdmKr8ULYbqjx-X0qKi7iEdu0gU6ac/view?usp=sharing" target="_blank"><strong>View my CV</strong></a>
+- **Email:** **luongvanvo29@gmail.com**
+- **LinkedIn:** https://linkedin.com/in/luongvanvo
+- **GitHub:** https://github.com/LuongVanVo
+- **CV:** <a href="https://drive.google.com/file/d/1DHrdmKr8ULYbqjx-X0qKi7iEdu0gU6ac/view?usp=sharing" target="_blank"><strong>View my CV</strong></a>
