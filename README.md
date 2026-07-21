@@ -26,4 +26,4 @@
 - **Email:** **luongvanvo29@gmail.com**
 - **LinkedIn:** https://linkedin.com/in/luongvanvo
 - **GitHub:** https://github.com/LuongVanVo
-- **CV:** <a href="https://drive.google.com/file/d/1knLGws5XB4cmsFks4LdwQOl0hnMkyp5D/view?usp=sharing" target="_blank"><strong>View my CV</strong></a>
+- **CV:** <a href="https://drive.google.com/file/d/1QuX0D0IPPNtVhr9y2bk5KUs9O_rrF5wF/view?usp=drive_link" target="_blank"><strong>View my CV</strong></a>
