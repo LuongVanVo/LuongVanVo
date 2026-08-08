@@ -7,11 +7,11 @@
 
 | Category | Technologies |
 |----------|--------------|
-| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,express,ts,js,cpp" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,express,ts,js" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> |
 | **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,rabbitmq,terraform" /> <img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="48" alt="DigitalOcean" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> |
+| **Tools & AI** | <img src="https://skillicons.dev/icons?i=git,github,postman" /> <img src="https://cdn.simpleicons.org/claude/DE7356" width="48" alt="Claude" />
 
 <!--
 <div align="center">
