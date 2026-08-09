@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Luong+Van+Vo;Fullstack+%26+Infrastructure+Engineer;Cloud+%7C+Software+Architecture" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Luong+Van+Vo;Fullstack+%26+Infrastructure+Engineer;Cloud+%7C+Software+Architecture" alt="Typing SVG" /> </p>
 
 <p>Hi 👋, I'm a Fullstack & Infrastructure Engineer who enjoys building things, solving problems, and learning along the way.
 </p>
