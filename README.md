@@ -9,9 +9,9 @@
 
 | Category | Technologies |
 |----------|--------------|
-| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,express,ts,js" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,express,ts,js,rabbitmq" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,rabbitmq,terraform,nginx" /> <img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="48" alt="DigitalOcean" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,terraform,nginx" /> <img src="https://cdn.simpleicons.org/digitalocean/0080FF" width="48" alt="DigitalOcean" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" /> |
 | **Tools & AI** | <img src="https://skillicons.dev/icons?i=git,github,postman" />  <img src="https://cdn.simpleicons.org/claude/DE7356" width="48" alt="Claude" /> <img src="https://cdn.simpleicons.org/claudecode/D97757" width="48" alt="ClaudeCode" /> <img src="https://cdn.simpleicons.org/googlegemini/4796E3" width="48" alt="Gemini" /> <img src="https://cdn.simpleicons.org/cursor/000000" width="48" alt="Cursor" />
 
